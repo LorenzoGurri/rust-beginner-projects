@@ -76,3 +76,6 @@ pub mod coin_estimator_by_weight;
 
 /// Mad Libs Story Maker Solution
 pub mod mad_libs;
+
+/// Watcher for TIL
+pub mod today_i_learnt;

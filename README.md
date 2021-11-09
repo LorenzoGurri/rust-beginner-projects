@@ -28,6 +28,7 @@ To view documentation, run `cargo doc --open`
 - [x] Rock Paper Scissors Game
 - [x] Coin Estimator By Weight
 - [x] Mad Libs Story Maker
+- [x] Watch for New TIL Facts
 - [ ] Change Calculator
 - [ ] Mean, Median, and Mode
 - [ ] Higher Lower Guessing Game
@@ -37,6 +38,9 @@ To view documentation, run `cargo doc --open`
 - [ ] Dice Rolling Simulator
 - [ ] Factors of a Number
 - [ ] Countdown Clock
+- [ ] Turn Based Pokemon Style Game
+- [ ] A Variation of 21
+- [ ] Compare Recent Reddit Karma
 - [ ] Black Jack
 - [ ] Watch for New TIL Facts
 - [ ] Random Wikipedia Article
